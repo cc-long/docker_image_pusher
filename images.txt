@@ -1,3 +1,4 @@
 zookeeper:3.8.1
 halohub/halo
 rabbitmq
+shawngajlekar/oracle_19_3
