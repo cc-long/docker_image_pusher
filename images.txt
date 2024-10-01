@@ -4,4 +4,4 @@ rabbitmq
 shawngajlekar/oracle_19_3
 rabbitmq
 registry
-jenkins:jenkins:lts-jdk11
+jenkins/jenkins:lts-jdk11
