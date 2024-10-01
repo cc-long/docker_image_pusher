@@ -3,5 +3,5 @@ halohub/halo
 rabbitmq
 shawngajlekar/oracle_19_3
 rabbitmq
-docker:dind
 registry
+jenkins
