@@ -5,3 +5,5 @@ shawngajlekar/oracle_19_3
 rabbitmq
 registry
 jenkins/jenkins:lts-jdk11
+openjdk:8
+maven
