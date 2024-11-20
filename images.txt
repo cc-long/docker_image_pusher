@@ -7,4 +7,5 @@
 # jenkins/jenkins:lts-jdk11
 # openjdk:8
 # maven
-sonatype/nexus3
+# sonatype/nexus3
+gogs
