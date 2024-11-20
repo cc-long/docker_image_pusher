@@ -8,4 +8,4 @@
 # openjdk:8
 # maven
 # sonatype/nexus3
-gogs
+gogs/gogs
