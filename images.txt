@@ -8,4 +8,4 @@
 # maven
 # sonatype/nexus3
 # gogs/gogs
-jenkins/jenkins:lts-centos7-jdk8
+jenkins/jenkins:jdk17
