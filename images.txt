@@ -8,4 +8,6 @@
 # maven
 # sonatype/nexus3
 # gogs/gogs
-jenkins/jenkins:jdk17
+# jenkins/jenkins:jdk17
+Prometheus
+Grafana
