@@ -9,5 +9,7 @@
 # sonatype/nexus3
 # gogs/gogs
 # jenkins/jenkins:jdk17
-prom/prometheus
-grafana/grafana
+# prom/prometheus
+# grafana/grafana
+foxiswho/rocketmq:server-4.5.1
+nacos/nacos-server:v2.1.1
