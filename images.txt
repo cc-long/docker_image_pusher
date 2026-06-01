@@ -13,4 +13,5 @@
 # grafana/grafana
 # foxiswho/rocketmq:server-4.5.1
 # nacos/nacos-server:v2.1.1
-ghcr.io/openclaw/openclaw:latest
+# ghcr.io/openclaw/openclaw:latest
+qdrant/qdrant:latest
